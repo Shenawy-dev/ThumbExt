@@ -1,5 +1,7 @@
 # YT-Thumb
 
+This interface fetches the thumbnails of YouTube videos via the video link
+
 ## Install
 
 > git clone https://github.com/Shenawy-devithub/ThumbExt.git

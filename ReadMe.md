@@ -9,7 +9,7 @@ This interface fetches the thumbnails of YouTube videos via the video link
 ## Usage
 
 ``node extr.js
-Put Your Youtube Video: <VIDEO-LINK>``
+PuCBt Your Youtube Video: <VIDEO-LINK>``
 
 ### Output Example
 

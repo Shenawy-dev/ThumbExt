@@ -1,13 +1,13 @@
 # YT-Thumb
 
-This interface fetches the thumbnails of YouTube videos via the video link
+This interface fetches the thumbnails of YouTube videos via the video link :sparkles:
 
 ## Install
 
 ```
 git clone https://github.com/Shenawy-devithub/ThumbExt.gitD
 ```
-## Usage
+### Usage
 
 ```
 node extr.js
